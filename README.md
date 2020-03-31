@@ -30,8 +30,9 @@ Allowed to remain open include:
   - Restaurants (for carry-out or delivery only)
   - Deliveries (packages, groceries, meals, etc
 * Schools closed through May 1 ([upd May 19](https://www.wlky.com/article/all-of-indianas-k-12-schools-public-and-private-ordered-to-close-through-may-1/31787108))
-* [Indiana - https://www.in.gov/coronavirus/](https://www.in.gov/coronavirus/)
-* [Floyd County - https://floydcounty.in.gov/index.php/covid-19](https://floydcounty.in.gov/index.php/covid-19)
+* [Indiana - https://coronavirus.in.gov/](https://coronavirus.in.gov/)
+* [Floyd County Covid-19 page](https://floydcounty.in.gov/index.php/covid-19)
+* [Floyd County Health Department](https://www.floydcounty.in.gov/index.php/floyd-county-government/floyd-county-indiana-health-department)
 
 ## Louisville & Kentucky Status
 * Healthy at home order ([upd May 23](https://www.courier-journal.com/story/money/business/2020/03/21/coronavirus-conditions-lead-state-decisions-essential-businesses/2884758001/)) \
