@@ -63,6 +63,7 @@ Allowed to remain open include:
 
 ### New Albany
 * [New Albany Restaurants](https://docs.google.com/document/d/19d7TTKF_LbbpkzdctvCD7WjYagSPzTRzDy2gDj2ZJ4Q/view) (courtesy Develop New Albany)
+* [Southern Indiana Restaurants](https://www.gosoin.com/blog/post/support-local-in-soin-carryout-delivery-options/) (Courtesy SoIN)
 * [New Albany Retail](https://docs.google.com/document/d/1A54hR1uxJXxadILl-MvTp_G4_H9RZmyUupRVaKImAOU/view) (courtesy Develop New Albany)
 
 ## How to help
