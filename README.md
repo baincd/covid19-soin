@@ -79,6 +79,7 @@ Allowed to remain open include:
 
 ## Things to do - on demand
 * [Lift Up Lou - Things to Do](https://louisvilleky.gov/government/lift-lou/liftuplou-things-do)
+* [SoIN - Things to Do](https://www.gosoin.com/covid/)
 * [Courier-Journal - Things to Do](https://www.courier-journal.com/story/entertainment/events/things-to-do/2020/03/20/activities-do-louisville-amid-coronavirus-pandemic/2865858001/)
 * [Coronavirus Sanity Guide](https://www.tenpercent.com/coronavirussanityguide)
 * [Live Stream Workouts](https://www.wlky.com/article/coronavirus-live-stream-workout-classes/31839592)
