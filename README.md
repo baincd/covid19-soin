@@ -8,6 +8,12 @@ Quick reference to the latest news highlights, business closings and hours, and 
 * [Local Summary](https://www.wlky.com/article/covid-19-in-ky-in-the-latest-headlines-and-resources-to-keep-you-informed-kentucky-indiana-1584725572/31817758) (courtesy WLKY)
 * [National Live Updates](https://www.washingtonpost.com/coronavirus/) (courtesy Washington Post)
 
+## Good News
+* http://SomeGoodNews.com
+* https://www.inspiremore.com/
+* https://tanksgoodnews.com/
+* https://www.goodnewsnetwork.org/
+
 ## Southern Indiana
 * [Indiana - https://coronavirus.in.gov/](https://coronavirus.in.gov/)
 * [Floyd County Covid-19 page](https://floydcounty.in.gov/index.php/covid-19)
