@@ -8,48 +8,12 @@ Quick reference to the latest news highlights, business closings and hours, and 
 * [Local Summary](https://www.wlky.com/article/covid-19-in-ky-in-the-latest-headlines-and-resources-to-keep-you-informed-kentucky-indiana-1584725572/31817758) (courtesy WLKY)
 * [National Live Updates](https://www.washingtonpost.com/coronavirus/) (courtesy Washington Post)
 
-## Southern Indiana status
-* Mandatory Stay-at-home order through April 6 ([upd Mar 23](https://www.wlky.com/article/indiana-governor-issues-stay-at-home-order-what-that-means/31900329)) \
-Allowed activites include:
-  - health and safety
-  - necessary supplies and services
-  - outdoor activity
-  - certain types of essential work
-  - to take care of others
-  - parks and outdoor spaces
-* Non-Essential Businesses closed through April 6 ([upd Mar 23](https://www.wlky.com/article/indiana-governor-issues-stay-at-home-order-what-that-means/31900329)) \
-Allowed to remain open include:
-  - grocery stores
-  - pharmacies
-  - gas stations
-  - police and fire stations
-  - hospitals, doctor’s offices, and health care facilities
-  - garbage pickup
-  - public transit
-  - public service hotlines such as SNAP and HIP 2.0
-  - Restaurants (for carry-out or delivery only)
-  - Deliveries (packages, groceries, meals, etc
-* Schools closed through May 1 ([upd May 19](https://www.wlky.com/article/all-of-indianas-k-12-schools-public-and-private-ordered-to-close-through-may-1/31787108))
+## Southern Indiana
 * [Indiana - https://coronavirus.in.gov/](https://coronavirus.in.gov/)
 * [Floyd County Covid-19 page](https://floydcounty.in.gov/index.php/covid-19)
 * [Floyd County Health Department](https://www.floydcounty.in.gov/index.php/floyd-county-government/floyd-county-indiana-health-department)
 
-## Louisville & Kentucky Status
-* Healthy at home order ([upd May 23](https://www.courier-journal.com/story/money/business/2020/03/21/coronavirus-conditions-lead-state-decisions-essential-businesses/2884758001/)) \
-Essential buisness allowed, including:
-  - buying groceries
-  - receiving medical attention
-  - outdoor exercises
-* Non-Essential Businesses closed til further notice ([upd Mar 22](https://www.wlky.com/article/gov-andy-beshear-closes-all-non-essential-retail-stores-to-halt-spread-of-covid-19/31884299))  \
-Allowed to remain open include:
-  - grocery stores
-  - pharmacies
-  - gas stations
-  - banks
-  - auto repair shops
-  - liquor stores
-  - other businesses with delivery or pickup options
-* Schools closed through April 17 ([upd Mar 20](https://www.wlky.com/article/governor-asks-all-kentucky-schools-to-extend-closure/31823099))
+## Louisville & Kentucky
 * [Kentucky - https://kycovid19.ky.gov/](https://kycovid19.ky.gov/)
 * [Metro Louisville](https://louisvilleky.gov/news/what-you-need-know-about-coronavirus)
 * [Federal - https://www.coronavirus.gov/](https://www.coronavirus.gov/)
