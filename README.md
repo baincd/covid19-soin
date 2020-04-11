@@ -67,6 +67,8 @@ Allowed to remain open include:
 * [New Albany Retail](https://docs.google.com/document/d/1A54hR1uxJXxadILl-MvTp_G4_H9RZmyUupRVaKImAOU/view) (courtesy Develop New Albany)
 
 ## How to help
+* https://www.feedingamerica.org/take-action/coronavirus
+* https://thriveglobal.com/categories/first-responders-first/
 * [How you can help](https://www.washingtonpost.com/nation/2020/03/21/how-you-can-help-during-coronavirus/)
 * [Get Us PPE](https://getusppe.org/)
 
