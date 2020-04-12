@@ -7,6 +7,7 @@ Quick reference to the latest news highlights, business closings and hours, and 
 ## Summary of Latest News
 * [Local Summary](https://www.wlky.com/article/covid-19-in-ky-in-the-latest-headlines-and-resources-to-keep-you-informed-kentucky-indiana-1584725572/31817758) (courtesy WLKY)
 * [National Live Updates](https://www.washingtonpost.com/coronavirus/) (courtesy Washington Post)
+* [Timeline](./timeline.md)
 
 ## Good News
 * http://SomeGoodNews.com
